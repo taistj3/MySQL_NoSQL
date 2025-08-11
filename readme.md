@@ -29,18 +29,17 @@ MySQL_NoSQL/
 
 ### 1. Clonar o Repositório
 
-```bash
 git clone https://github.com/taistj3/MySQL_NoSQL.git
 cd MySQL_NoSQL
 
-2. Subir os containers
+### 2. Subir os containers
 
-3. Instalar no VS Code a extensão para abrir o database MySQL
-- Database Client JDBC
+### 3. Instalar no VS Code a extensão para abrir o database MySQL
+Database Client JDBC
 
-4. Acessar MongoDB e conectá-lo ao localhost:27017
+### 4. Acessar MongoDB e conectá-lo ao localhost:27017
 
-5. Executar Scripts SQL no MySQL
+### 5. Executar Scripts SQL no MySQL
 
-6. Executar Scripts JavaScript no MongoDB via terminal Sh no MongoDB Compass.
+### 6. Executar Scripts JavaScript no MongoDB via terminal Sh no MongoDB Compass.
 
